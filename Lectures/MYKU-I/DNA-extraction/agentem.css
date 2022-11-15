@@ -1,0 +1,15 @@
+.agentem-title-slide {
+  font-size: 2.9rem;
+  color: #6ea780;
+}
+
+.header-card {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 20%;
+    margin: auto;
+    background: #3c724a;
+    color: white;
+}
